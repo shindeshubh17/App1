@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WEB-Forms\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|d:\\web-forms\\app1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|D:\\WEB-Forms\\App1\\sign-up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|solutionrelative:sign-up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|D:\\WEB-Forms\\App1\\sign-up.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|solutionrelative:sign-up.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|D:\\WEB-Forms\\App1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|D:\\WEB-Forms\\App1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9D3109F-A410-425E-9D6B-D058737D5585}|App1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sign-up.aspx.cs",
+              "DocumentMoniker": "D:\\WEB-Forms\\App1\\Sign-up.aspx.cs",
+              "RelativeDocumentMoniker": "Sign-up.aspx.cs",
+              "ToolTip": "D:\\WEB-Forms\\App1\\Sign-up.aspx.cs",
+              "RelativeToolTip": "Sign-up.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:52:57.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign-up.aspx",
+              "DocumentMoniker": "D:\\WEB-Forms\\App1\\Sign-up.aspx",
+              "RelativeDocumentMoniker": "Sign-up.aspx",
+              "ToolTip": "D:\\WEB-Forms\\App1\\Sign-up.aspx",
+              "RelativeToolTip": "Sign-up.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-07T04:32:09.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\WEB-Forms\\App1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\WEB-Forms\\App1\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:12:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\WEB-Forms\\App1\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\WEB-Forms\\App1\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-06T15:35:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\WEB-Forms\\App1\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\WEB-Forms\\App1\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T15:29:30.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
